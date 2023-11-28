@@ -31,4 +31,4 @@ This is a simple Android app designed to calculate Body Mass Index (BMI). BMI is
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/OnpointSoftwares/bmi-calculator-android.git
+   git clone https://github.com/OnpointSoftwares/BMI-Calculator.git
